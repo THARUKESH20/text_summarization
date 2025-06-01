@@ -12,4 +12,4 @@ langchain-community
 pymupdf
 protobuf==3.20.3
 chromadb==0.3.21
-
+pydantic>=1.10.7
