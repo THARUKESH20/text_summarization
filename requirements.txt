@@ -8,3 +8,5 @@ PyMuPDF
 transformers
 torch
 nltk==3.8.1
+langchain-community
+pymupdf
