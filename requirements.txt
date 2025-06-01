@@ -10,3 +10,5 @@ torch
 nltk==3.8.1
 langchain-community
 pymupdf
+protobuf==3.20.3
+
