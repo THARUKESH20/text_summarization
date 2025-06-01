@@ -1,0 +1,9 @@
+streamlit
+nltk
+requests
+sentence-transformers
+chromadb
+langchain
+PyMuPDF
+transformers
+torch
