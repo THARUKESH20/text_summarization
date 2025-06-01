@@ -7,3 +7,4 @@ langchain
 PyMuPDF
 transformers
 torch
+nltk==3.8.1
